@@ -1,0 +1,3 @@
+[submodule "trawl"]
+	path = trawl
+	url = https://github.com/germondai/trawl.git
